@@ -112,6 +112,11 @@ p {
   text-decoration: underline;
 }
 
+/*icons within dark bg are white*/
+.bg-dark i {
+  color: #ffffff;
+}
+
 .bg-primary {
   background-color: #ededed;
   color: #695ba6;
